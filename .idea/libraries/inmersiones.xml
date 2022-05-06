@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="inmersiones">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/inmersiones/dist/inmersiones.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
